@@ -1,0 +1,3 @@
+implementar padrão de cores
+implementar melhoria na barra de progresso
+colocar logo da IdeeN
